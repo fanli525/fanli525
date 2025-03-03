@@ -1,4 +1,3 @@
-
 <h1 align="center">🕵️‍♀️🦌 Fan Li, PhD</h1>
 
 <p align="center">
@@ -8,6 +7,15 @@
   <a href="https://www.webofscience.com/wos/author/record/KDO-0695-2024">🌐 Web of Science</a>
 </p>
 
+<p align="center">
+  <!-- Shields.io Badges -->
+  <img src="https://img.shields.io/github/followers/fanly525?style=social" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/fanly525?style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/badge/Google_Scholar-Citations-blue?style=flat-square&logo=google-scholar" alt="Google Scholar">
+  <img src="https://img.shields.io/badge/ORCID-0009--0009--5328--4354-green?style=flat-square&logo=orcid" alt="ORCID">
+</p>
+
+---
 
 
 ## 📖 About Me
@@ -98,6 +106,15 @@ _Swarm and Evolutionary Computation, 2022 (IF: 8.2, JCR Q1)_
   - [arXiv Preprint](https://arxiv.org/abs/2402.09638)
 - 📜 **Patent**:  
   - [CN106502208B](https://patents.google.com/patent/CN106502208B/en)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fanli525&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanli525&layout=compact&hide_title=true" />
+</p>
 
 ---
 
