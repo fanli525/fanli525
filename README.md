@@ -1,10 +1,10 @@
 <h1 align="center">🕵️‍♀️🦌 Fan Li, PhD</h1>
 
 <p align="center">
-  <a href="mailto:fanly0525@gmail.com">📧 fanly0525@gmail.com</a> |
   <a href="https://scholar.google.com/citations?user=xkrQkkgAAAAJ&hl=zh-CN">📚 Google Scholar</a> |
   <a href="https://orcid.org/0009-0009-5328-4354">🧬 ORCID</a> |
-  <a href="https://www.webofscience.com/wos/author/record/KDO-0695-2024">🌐 Web of Science</a>
+  <a href="https://www.webofscience.com/wos/author/record/KDO-0695-2024">🌐 Web of Science</a>|
+  <a href="mailto:fanly0525@gmail.com">📧 fanly0525@gmail.com</a> 
 </p>
 
 <p align="center">
