@@ -21,7 +21,7 @@
 ## 📖 About Me
 
 I am a **researcher in data-driven optimization, multi-fidelity optimization (MFO), and automated machine learning (AutoML)**.  
-I have published **16 academic papers**, including **9 first-author SCI papers (8 JCR Q1, 1 JCR Q2)**, with **1 ESI highly cited paper**. My work has been cited **456+ times (Google Scholar)**, with the highest single-paper citation of **131**. I also hold **one granted patent** and have achieved **First Runner-Up** in multiple international competitions in **AutoML and IEEE CEC**.
+I have published **21 academic papers**, including **9 first-author SCI papers (8 JCR Q1, 1 JCR Q2)**, with **1 ESI highly cited paper**. My work has been cited **600+ times (Google Scholar)**, with the highest single-paper citation of **173**. I also hold **one granted patent** and have achieved **First Runner-Up** in multiple international competitions in **AutoML and IEEE CEC**.
 
 ---
 
