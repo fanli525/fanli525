@@ -50,8 +50,9 @@ I have published **21 academic papers**, including **9 first-author SCI papers (
 ---
 
 ## 🎓 Education & Work Experience
-
-- **🔬 Postdoctoral Research Fellow** (2021 - Present)  
+- **🔬 Postdoctoral Research Fellow** (2025 - Now)  
+  *College of Mechanical and Electrical Engineering, Central South University, China*
+- **🔬 Postdoctoral Research Fellow** (2021 - 2025)  
   *Department of Computer Science, University of Exeter, UK*
 - **🎓 PhD | Mechanical Science & Engineering** (2017 - 2021)  
   *Huazhong University of Science & Technology (HUST), China*  
